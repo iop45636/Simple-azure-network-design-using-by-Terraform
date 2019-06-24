@@ -1,3 +1,5 @@
+This is simple Terraform testing include azure 5 services(resource group, vnet, vm, disk, network interface)
+
 Make sure you login azure account in vscode
 
 First move to the folder and run <terraform init> for .tf file
