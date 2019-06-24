@@ -1,4 +1,6 @@
-First move to the folder and run &lt;terraform init> for .tf file
+Make sure you login azure account in vscode
+
+First move to the folder and run <terraform init> for .tf file
 
 run <terraform plan> see what Azure service is building
   
